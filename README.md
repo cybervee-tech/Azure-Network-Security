@@ -44,7 +44,7 @@ FuturinCLOUD Limited was tasked with implementing secure network segmentation fo
 ## Full Documentation
 
  **Complete Lab Documentation Report and Screenshots (PDF)**  
-[Open / View Full Report](https://raw.githubusercontent.com/yourusername/your-repo-name/main/docs/Azure%20Network%20Security%20Lab%202%20-%20FuturinCLOUD.pdf)
+[Open / View Full Report](https://github.com/cybervee-tech/Azure-Network-Security/blob/main/docs/Azure%20Network%20Segmentation%20with%20NSGs%20%26%20ASGs%20%20.pdf)
 
 
 ## Challenges & Resolutions
